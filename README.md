@@ -63,3 +63,9 @@ python3 generate_yeesite_60w_pixel_bar.py
 ```
 
 Status: the XML validates and every mode resolves; not yet exercised against a bar in QLC+.
+
+## License
+
+[Millstone Solutions Church and Ministry Use License](LICENSE). This is source-available, not open source.
+Christian churches and ministries may use it free of charge. Installers may set it up for them.
+Any other use requires written permission; to ask, open an issue.
